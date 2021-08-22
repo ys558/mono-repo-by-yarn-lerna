@@ -1,1 +1,1 @@
-module.exports = () => console.log('hello fr common')
+module.exports = () => console.log('try conventional commits')
