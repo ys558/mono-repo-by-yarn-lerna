@@ -5,6 +5,7 @@
   ],
   "scripts": {
     "test": "lerna run test --scope=@mono-repo-by-yarn-lerna/common",
+    "test-since": "lerna run test --since",
     "new-version": "lerna version --conventional-commits --yes",
     "diff": "lerna diff"
   },
